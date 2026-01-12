@@ -4,4 +4,4 @@ Welcome to Proteintech's Introduction to Python for Biologists! Here, you can fi
 
 Happy learning!
 
-In case of any issues, please email diya.arul@ptglab.com or popp@ptglab.com
+In case of any issues, please email diya.arul@ptglab.com or poppy@ptglab.com
